@@ -1,0 +1,12 @@
+h3{
+    background-color: skyblue;
+    margin: 0;
+}
+.logo{
+    width: 18rem;
+    padding-top: 1rem;
+    padding-left: 2rem;
+}
+.logo>img{
+    width: 100%;
+}
